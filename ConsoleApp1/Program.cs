@@ -10,7 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello World!");
+            Console.Write("Hello World!\n");
+            Console.Write("This is the mod");
         }
     }
 }
