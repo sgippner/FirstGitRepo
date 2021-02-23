@@ -11,8 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.Write("Hello World!\n");
-            Console.Write("This is the mod\n");
             Console.Write("This is the second mod\n");
+            Console.Write("This is the third mod\n");
         }
     }
 }
